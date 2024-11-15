@@ -2,7 +2,7 @@
 # 👋 Hi, I'm Polina Tsukanova!
 
 🚀 **Frontend Developer | Angular Enthusiast | Passionate about Beautiful & Functional Interfaces**  
-🌍 Based in Saint Petersburg, Russia
+🌍 Saint Petersburg, Russia
 
 ---
 
