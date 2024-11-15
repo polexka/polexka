@@ -7,11 +7,11 @@
 ---
 
 ### 👩‍💻 About Me
-I’m a Frontend Developer with over a year of hands-on experience in building responsive, efficient, and engaging web applications. I focus on crafting interfaces that are as elegant as they are functional, combining my technical knowledge with a user-centric approach. Whether it's integrating APIs, fine-tuning UI components, or deploying on cloud platforms, I'm here to deliver.
+I’m a Frontend Developer with experience in building responsive, efficient, and engaging web applications. I focus on crafting interfaces that are as elegant as they are functional, combining my technical knowledge with a user-centric approach. Whether it's integrating APIs, fine-tuning UI components, or deploying on cloud platforms, I'm here to deliver.
 
 - 💼 **Current Role**: Frontend Developer at Selectel  
 - 🎓 **Education**: Computer Security at ETU “LETI”  
-- 💬 **Languages**: JavaScript, TypeScript, HTML, CSS, SCSS, and more
+- 💬 **Stack**: JavaScript, TypeScript, HTML, Angular, React and more
 
 ---
 
