@@ -1,7 +1,7 @@
 
 # 👋 Hi, I'm Polina Tsukanova!
 
-🚀 **Frontend Developer | Angular Enthusiast | Passionate about Beautiful & Functional Interfaces**  
+🚀 **Frontend Developer | Angular Enthusiast**  
 🌍 Saint Petersburg, Russia
 
 ---
@@ -21,15 +21,17 @@ I’m a Frontend Developer with experience in building responsive, efficient, an
 
 ---
 
+### 🏆 Achievements
+- **Finalist with Special Nomination**: VTB API Hackathon 2024
+- **Finalist**: Naimix:Code Hackathon
+- **Semi-Finalist**: T1 Hackathon: Golden Record
+
+---
+
 ### 🛠️ Tech Stack
 - **Frontend**: Angular, TypeScript, SCSS, HTML, CSS, React, Redux
 - **Backend**: Node.js, Express
 - **Tools**: Git, Docker, WebSockets, REST APIs, MongoDB, Nginx
-
----
-
-### 🌱 Continuous Learning
-I believe in the power of adaptability and continual learning. After completing a Web Development program at Yandex Practicum, I continue to explore new skills and improve my craft.
 
 ---
 
