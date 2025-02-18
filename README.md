@@ -1,36 +1,35 @@
 
 # 👋 Hi, I'm Polina Tsukanova!
 
-🚀 **Frontend Developer | Angular Enthusiast**  
+🚀 **Frontend Developer**  
 🌍 Saint Petersburg, Russia
 
 ---
 
 ### 👩‍💻 About Me
-I’m a Frontend Developer with experience in building responsive, efficient, and engaging web applications. I focus on crafting interfaces that are as elegant as they are functional, combining my technical knowledge with a user-centric approach. Whether it's integrating APIs, fine-tuning UI components, or deploying on cloud platforms, I'm here to deliver.
+I'm a Frontend Developer passionate about building fast, scalable, and user-friendly web applications. I specialize in crafting clean, efficient, and intuitive interfaces, leveraging modern frameworks and best practices. Whether it’s integrating APIs, optimizing performance, or deploying applications, I focus on delivering seamless experiences.
 
-- 💼 **Current Role**: Frontend Developer at Selectel  
 - 🎓 **Education**: Computer Security at ETU “LETI”  
 - 💬 **Stack**: JavaScript, TypeScript, HTML, Angular, React and more
 
 ---
 
-### 💼 Experience Highlights
+### 💼 Experience
 - **[Selectel](https://selectel.ru/)**: Developing and maintaining control panels for enterprise and mobile solutions using Angular and TypeScript.
 - **[cgeng.pro](https://cgeng.pro/)**: Built and implemented core components for a corporate project management system, integrating APIs and ensuring seamless backend communication.
 
 ---
 
 ### 🏆 Achievements
-- **Finalist with Special Nomination**: VTB API Hackathon 2024
-- **Finalist**: Naimix:Code Hackathon
-- **Semi-Finalist**: T1 Hackathon: Golden Record
+- **VTB API Hackathon 2024**: Finalist with Special Nomination
+- **Naimix:Code Hackathon**: Finalist
+- **T1 Hackathon**: Semi-Finalist
 
 ---
 
 ### 🛠️ Tech Stack
 - **Frontend**: Angular, TypeScript, SCSS, HTML, CSS, React, Redux
-- **Backend**: Node.js, Express
+- **Backend**: Node.js, Express, Python, FastAPI
 - **Tools**: Git, Docker, WebSockets, REST APIs, MongoDB, Nginx
 
 ---
