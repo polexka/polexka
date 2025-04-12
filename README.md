@@ -46,6 +46,7 @@
       <p>
         <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Badge" />
         <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git Badge" />
+        <img src="https://img.shields.io/badge/Figma-FF7262?style=for-the-badge&logo=figma&logoColor=white" alt="Figma Gradient Badge" />
       </p>
       <pre style="max-width: 250px; overflow-wrap: break-word; white-space: normal; padding: 15px; background-color: #f4f4f4; border-radius: 8px;"><code>### 💌 contact me
       telegram [https://t.me/polexxka]</code></pre>
