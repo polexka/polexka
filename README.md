@@ -21,7 +21,7 @@
         integrating APIs and ensuring seamless backend communication.
 .
 ### 🏆 achievements
-        - VTB API Hackathon 2024: Finalist with Special Nomination
+        - VTB API Hackathon 2024: Special Nomination
         - Naimix:Code Hackathon: Finalist
         - T1 Hackathon: Semi-Finalist
 .
